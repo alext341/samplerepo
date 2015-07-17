@@ -1,0 +1,23 @@
+{
+  "name": "samplerepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alext341/samplerepo.git"
+  },
+  "author": "Alex Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alext341/samplerepo/issues"
+  },
+  "homepage": "https://github.com/alext341/samplerepo#readme"
+}
